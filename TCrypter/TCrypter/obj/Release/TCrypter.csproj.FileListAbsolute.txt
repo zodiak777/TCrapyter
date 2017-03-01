@@ -1,0 +1,9 @@
+c:\users\zodiak\documents\visual studio 2015\Projects\TCrypter\TCrypter\bin\Release\TCrypter.exe.config
+c:\users\zodiak\documents\visual studio 2015\Projects\TCrypter\TCrypter\bin\Release\TCrypter.exe
+c:\users\zodiak\documents\visual studio 2015\Projects\TCrypter\TCrypter\bin\Release\TCrypter.pdb
+c:\users\zodiak\documents\visual studio 2015\Projects\TCrypter\TCrypter\obj\Release\TCrypter.Form1.resources
+c:\users\zodiak\documents\visual studio 2015\Projects\TCrypter\TCrypter\obj\Release\TCrypter.Properties.Resources.resources
+c:\users\zodiak\documents\visual studio 2015\Projects\TCrypter\TCrypter\obj\Release\TCrypter.csproj.GenerateResource.Cache
+c:\users\zodiak\documents\visual studio 2015\Projects\TCrypter\TCrypter\obj\Release\TCrypter.exe
+c:\users\zodiak\documents\visual studio 2015\Projects\TCrypter\TCrypter\obj\Release\TCrypter.pdb
+C:\Users\Zodiak\documents\visual studio 2015\Projects\TCrypter\TCrypter\obj\Release\TCrypter.csprojResolveAssemblyReference.cache
